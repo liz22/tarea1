@@ -1,0 +1,15 @@
+C:\Users\Alumnos\Desktop\Tarea1-master\Clase Persona\Tarea1\bin\Debug\Tarea1.exe
+C:\Users\Alumnos\Desktop\Tarea1-master\Clase Persona\Tarea1\bin\Debug\Tarea1.pdb
+C:\Users\Alumnos\Desktop\Tarea1-master\Clase Persona\Tarea1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumnos\Desktop\Tarea1-master\Clase Persona\Tarea1\obj\x86\Debug\Tarea1.exe
+C:\Users\Alumnos\Desktop\Tarea1-master\Clase Persona\Tarea1\obj\x86\Debug\Tarea1.pdb
+C:\Users\Alumnos\Desktop\Tarea1\Clase Persona\Tarea1\bin\Debug\Tarea1.exe
+C:\Users\Alumnos\Desktop\Tarea1\Clase Persona\Tarea1\bin\Debug\Tarea1.pdb
+C:\Users\Alumnos\Desktop\Tarea1\Clase Persona\Tarea1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumnos\Desktop\Tarea1\Clase Persona\Tarea1\obj\x86\Debug\Tarea1.exe
+C:\Users\Alumnos\Desktop\Tarea1\Clase Persona\Tarea1\obj\x86\Debug\Tarea1.pdb
+C:\Users\lizbeth\Desktop\Clase Persona\Tarea1\bin\Debug\Tarea1.exe
+C:\Users\lizbeth\Desktop\Clase Persona\Tarea1\bin\Debug\Tarea1.pdb
+C:\Users\lizbeth\Desktop\Clase Persona\Tarea1\obj\x86\Debug\Tarea1.csprojResolveAssemblyReference.cache
+C:\Users\lizbeth\Desktop\Clase Persona\Tarea1\obj\x86\Debug\Tarea1.exe
+C:\Users\lizbeth\Desktop\Clase Persona\Tarea1\obj\x86\Debug\Tarea1.pdb
